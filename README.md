@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Andre Mayberry
 
-###©️ 2020 Run Buddy, Inc
+### ©️ 2020 Run Buddy, Inc
