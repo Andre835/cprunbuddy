@@ -71,7 +71,7 @@ header {
   
   /* Hero Style Start */
   .hero {
-    background-image: url('../images/01-HTML-Git-CSS_05-Module-Project_master_assets_images_hero-bg.jpg');
+    background-image: url('../images/flipped-hero-image.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
